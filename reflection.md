@@ -23,4 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
-I continue to think of github copilot as the devil desquised as an angel, but this does not stop me from using it while it is available. I feel that I am quite competent as using pandas already, but I still enjoyed the task as hand. I still have room to learn more streamlit and I will continue to do so.
+I continue to think of github copilot as the devil desquised as an angel, but this does not stop me from using it while it is available. I feel that I am quite competent as using pandas already, but I still enjoyed the task as hand. I still have room to learn more streamlit and I will continue to do so!
